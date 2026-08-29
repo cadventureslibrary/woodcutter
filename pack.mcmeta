@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "min_format": [107, 1],
+    "max_format": [107, 255],
+    "description": [
+      "Adds stonecutting recipes for wooden blocks"
+    ],
+    "meta": {
+      "authors": ["britishconnah"],
+      "modified": "2026-08-29",
+      "version": "26.2"
+    }
+  }
+}

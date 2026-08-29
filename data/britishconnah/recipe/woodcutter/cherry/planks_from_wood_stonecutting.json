@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "woodcutter",
+  "ingredient": "minecraft:cherry_wood",
+  "result": {
+    "count": 4,
+    "id": "minecraft:cherry_planks"
+  }
+}
